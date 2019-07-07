@@ -775,6 +775,7 @@ errorMap = {
   "q": "que",
   "qlquer": "qualquer",
   "qui": "que",
+  "sinhora": "senhora",
   "stava": "estava",
   "tava": "estava",
   "vdd": "verdade",
@@ -785,6 +786,5 @@ errorMap = {
   "xogar": "jogar",
   "xonado": "apaixono",
   "xonadinha": "apaixonadinha",
-  "xonadinho": "apaixonadinho",
-  "sinhora": "senhora"
+  "xonadinho": "apaixonadinho"
 }
