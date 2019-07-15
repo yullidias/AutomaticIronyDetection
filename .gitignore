@@ -127,3 +127,4 @@ dmypy.json
 log
 .ipynb_checkpoints/
 __pycache__/
+update.sh
