@@ -51,7 +51,7 @@
    "support": 2741
   }
  },
- "score": 0.9211966435607443,
+ "score": 0.921872942815018,
  "bestScore": null,
  "confusionMatrix": "[[1084  130]\n [  86 1441]]"
 }

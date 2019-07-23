@@ -1,0 +1,51 @@
+{
+ "classifier": {
+  "C": 0.5,
+  "cache_size": 200,
+  "class_weight": null,
+  "coef0": 0.0,
+  "decision_function_shape": "ovr",
+  "degree": 3,
+  "gamma": "auto_deprecated",
+  "kernel": "linear",
+  "max_iter": -1,
+  "probability": false,
+  "random_state": null,
+  "shrinking": true,
+  "tol": 0.001,
+  "verbose": false
+ },
+ "report": {
+  "0": {
+   "precision": 0.9107544141252006,
+   "recall": 0.8189953810623557,
+   "f1-score": 0.8624411004711963,
+   "support": 3464
+  },
+  "1": {
+   "precision": 0.7793030623020063,
+   "recall": 0.8884430176565008,
+   "f1-score": 0.8303018938683667,
+   "support": 2492
+  },
+  "micro avg": {
+   "precision": 0.8480523841504365,
+   "recall": 0.8480523841504365,
+   "f1-score": 0.8480523841504365,
+   "support": 5956
+  },
+  "macro avg": {
+   "precision": 0.8450287382136035,
+   "recall": 0.8537191993594282,
+   "f1-score": 0.8463714971697816,
+   "support": 5956
+  },
+  "weighted avg": {
+   "precision": 0.8557549566464565,
+   "recall": 0.8480523841504365,
+   "f1-score": 0.848994004625956,
+   "support": 5956
+  }
+ },
+ "confusionMatrix": "[[2837  627]\n [ 278 2214]]"
+}
