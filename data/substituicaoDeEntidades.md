@@ -12,5 +12,5 @@
 | expressão regular que reconhece urls | URL |
 | expressão regular que reconhece email | EMAIL |
 | números ordinais, reais, telefone, dinheiro | NUMERO |
-|.., ..., … | RETICÊNCIAS |
+|.., ... | RETICÊNCIAS |
 | + | MAIS |
