@@ -1,0 +1,2 @@
+2020-11-02T18:28:43.498170 - Reexecutando o pipeline - N features: 1994188 [BOW+Ngram]  
+2020-11-02T18:28:58.882105 - Reexecutando o pipeline - N features: 62792 [BOW]  

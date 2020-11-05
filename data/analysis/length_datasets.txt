@@ -1,0 +1,10 @@
+name                               length
+----------------------------------------------
+#soquenao.xlsx                        279
+preprocess.xlsx                    100000
+#sqn.xlsx                            1926
+ironicHashtags.xlsx                  2701
+#ironia.xlsx                          496
+manually_ironic.xlsx                  518
+ironic.xlsx                          3219
+manually_not_ironic.xlsx             1594

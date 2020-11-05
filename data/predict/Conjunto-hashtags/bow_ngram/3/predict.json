@@ -1,0 +1,62 @@
+{
+  "fold": 3,
+  "size": [
+    4295,
+    1994188
+  ],
+  "score": 0.9124722424879945,
+  "report": {
+    "0": {
+      "precision": 0.9251191286589516,
+      "recall": 0.8525721455457967,
+      "f1-score": 0.8873653281096964,
+      "support": 1594
+    },
+    "1": {
+      "precision": 0.9168435951875442,
+      "recall": 0.9592743428359867,
+      "f1-score": 0.9375791568662928,
+      "support": 2701
+    },
+    "accuracy": 0.919674039580908,
+    "macro avg": {
+      "precision": 0.9209813619232479,
+      "recall": 0.9059232441908918,
+      "f1-score": 0.9124722424879945,
+      "support": 4295
+    },
+    "weighted avg": {
+      "precision": 0.9199148874700643,
+      "recall": 0.919674039580908,
+      "f1-score": 0.9189433377654745,
+      "support": 4295
+    }
+  },
+  "confusion_matriz": [
+    [
+      1359,
+      235
+    ],
+    [
+      110,
+      2591
+    ]
+  ],
+  "parameters": {
+    "C": 0.03125,
+    "break_ties": false,
+    "cache_size": 200,
+    "class_weight": "balanced",
+    "coef0": 0.0,
+    "decision_function_shape": "ovr",
+    "degree": 3,
+    "gamma": "scale",
+    "kernel": "linear",
+    "max_iter": -1,
+    "probability": false,
+    "random_state": null,
+    "shrinking": true,
+    "tol": 0.001,
+    "verbose": false
+  }
+}
